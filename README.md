@@ -1,6 +1,5 @@
 # HZC - Rede Social
 
-Rápida descrição do objetivo de fazer esse projeto
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
